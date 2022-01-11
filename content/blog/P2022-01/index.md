@@ -16,7 +16,7 @@ However, recently, I have been receiving emails and messages that coincide, and 
 
 Honestly, I don’t know.
 
-Even as an admitted student, I do not have access to information on how admissions work. I was admitted the same way as the rest of my class for that I completed my application and the requirements on the [Plaksha Admissions] (https://plaksha.edu.in/admissions) website.
+Even as an admitted student, I do not have access to information on how admissions work. I was admitted the same way as the rest of my class for that I completed my application and the requirements on the [Plaksha Admissions](https://plaksha.edu.in/admissions) website.
 
 As for how to submit a successful application, I do not know what made my application successful. As for what was on my application, well, everything I am comfortable sharing about myself is on my website. Also, the application process at Plaksha is unique to the person applying, so my responses wouldn't help anyone.
 
