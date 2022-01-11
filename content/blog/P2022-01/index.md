@@ -22,9 +22,11 @@ As for how to submit a successful application, I do not know what made my applic
 
 ### Can you help me with the College Application Process?
 
-Sorry, I cannot, even though I would love to. As the application process, itself is unique to the applicant and ever-changing, I cannot do any better than redirect you to the institution’s websites or provide a few tips (which I have shared below). Hope you understand! (For Plaksha-Specific Questions, you can still reach out to me via Email: [atharva] dot [sawant] at [plaksha] dot [edu] dot [in].)
+Sorry, I cannot, even though I would love to. As the application process, itself is unique to the applicant and ever-changing, I cannot do any better than redirect you to the institution’s websites or provide a few tips (which I have shared below). Hope you understand! 
 
-## Tips (for College Application Process)!
+(For Plaksha-Specific Questions, you can still reach out to me via Email: [atharva] dot [sawant] at [plaksha] dot [edu] dot [in].)
+
+### Tips (for College Application Process)!
 
 1. Be Yourself.
 2. Start Early.
