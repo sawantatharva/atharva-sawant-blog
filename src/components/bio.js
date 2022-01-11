@@ -46,6 +46,11 @@ const Bio = () => {
         <p>
           By <strong>{author.name}</strong> {author?.summary || null}
           {` `}
+          <p>
+            <a href="http://atharvasawant.com"> Home </a> |
+            <a href="http://atharvasawant.com/blog"> All Posts </a> |
+            <a href="http://daydreamed.substack.com"> Subscribe </a>
+         </p>
         </p>
       )}
     </div>
