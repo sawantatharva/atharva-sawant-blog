@@ -29,7 +29,7 @@ const Layout = ({ location, title, children }) => {
         <br />
         Made with
         {` ♥ using `}
-        <a href="https://www.gatsbyjs.com" style="text-decoration: none;">Gatsby</a>
+        <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
     </div>
   )
