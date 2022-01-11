@@ -299,7 +299,7 @@ a:focus {
 
 .bio {
   display: flex;
-  padding-bottom: var(--spacing-12);
+  padding-bottom: 1rem;
   border-bottom: 1px solid #d1dce5;
 }
 
