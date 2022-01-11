@@ -10,7 +10,7 @@ I'm usually delighted to receive emails from people who visit my LinkedIn or web
 
 However, recently, I have been receiving emails and messages that coincide, and I can't reply to everyone with the same answers within a suitable time. So before reaching out to me with any queries, I would appreciate it if you could read through this FAQ!
 
-# College-related
+# College - Related
 
 ### How did you get into Plaksha?
 
@@ -31,6 +31,18 @@ For Plaksha-Specific Questions, you can still reach out to me via Email: [atharv
 1. Be Yourself.
 2. Start Early.
 3. Relax & Enjoy the Process!
+
+# High School - Related
+
+### How did you get an internship at MIT?
+
+Once again, I don't know.
+
+It was an unpredictable thing since I got the internship via a trial and error method called Cold Emailing. For those who are unfamiliar with Cold Emails:
+
+> A cold email is an unsolicited e-mail that is sent to a receiver without prior contact. 
+
+For me, I just randomly cold emailed, and luckily, got a reply! Once again, this process is unexpected so don't be sad if you don't receive a reply. But it's worth a shot if you're fascinated by something!
 
 # Website Specifications
 
