@@ -26,8 +26,8 @@ const Layout = ({ location, title, children }) => {
       <main>{children}</main>
       <footer>
         © {new Date().getFullYear()} Atharva Sawant
-        Made with ♥ using
-        {`H`}
+        {"\n"}Made with
+        {` ♥ using `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
       </footer>
     </div>
