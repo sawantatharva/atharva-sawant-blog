@@ -300,11 +300,12 @@ a:focus {
 .bio {
   display: flex;
   margin-bottom: var(--spacing-16);
+  border-bottom: 1px solid #d1dce5;
 }
 
 .bio p {
   margin-bottom: var(--spacing-0);
-  font-size: var(--fontSize-1);
+  font-size: 1.1rem;
 }
 
 .bio-avatar {
