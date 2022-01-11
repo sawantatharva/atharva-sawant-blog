@@ -20,9 +20,15 @@ Even as an admitted student, I do not have access to information on how admissio
 
 As for how to submit a successful application, I do not know what made my application successful. As for what was on my application, well, everything I am comfortable sharing about myself is on my website. Also, the application process at Plaksha is unique to the person applying, so my responses wouldn't help anyone.
 
-### Can you help me with the college application process?
+### Can you help me with the College Application Process?
 
-Sorry, I cannot, even though I would love to. As the application process, itself is unique to the applicant and ever-changing,  I cannot do any better than redirect you to the institution’s websites or provide a few tips (which I have shared below). Hope you understand!
+Sorry, I cannot, even though I would love to. As the application process, itself is unique to the applicant and ever-changing, I cannot do any better than redirect you to the institution’s websites or provide a few tips (which I have shared below). Hope you understand! (For Plaksha-Specific Questions, you can still reach out to me via Email: [atharva] dot [sawant] at [plaksha] dot [edu] dot [in].)
+
+## Tips (for College Application Process)!
+
+1. Be Yourself.
+2. Start Early.
+3. Relax & Enjoy the Process!
 
 # Website Specifications
 
