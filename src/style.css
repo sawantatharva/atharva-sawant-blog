@@ -259,6 +259,7 @@ a:focus {
 
 .global-wrapper[data-is-root-path="true"] .bio {
   margin-bottom: var(--spacing-12);
+  border-bottom: 1px solid #d1dce5;
 }
 
 .global-header {
@@ -299,7 +300,6 @@ a:focus {
 
 .bio {
   display: flex;
-  border-bottom: 1px solid #d1dce5;
 }
 
 .bio p {
