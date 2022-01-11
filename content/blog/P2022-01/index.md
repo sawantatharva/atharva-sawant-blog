@@ -26,7 +26,7 @@ Sorry, I cannot, even though I would love to. As the application process, itself
 
 For Plaksha-Specific Questions, you can still reach out to me via Email: [atharva] dot [sawant] at [plaksha] dot [edu] dot [in].
 
-### Tips (for College Application Process)!
+### Tips! (for College Application Process)
 
 1. Be Yourself.
 2. Start Early.
