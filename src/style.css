@@ -177,11 +177,6 @@ p {
   padding: var(--spacing-0);
 }
 
-ol {
-  border-top: var(--color-accent);
-  height: 1px;
-}
-
 ul,
 ol {
   margin-left: var(--spacing-0);
