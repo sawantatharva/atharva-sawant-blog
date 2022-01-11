@@ -28,4 +28,4 @@ Sorry, I cannot, even though I would love to. As the application process, itself
 
 ### How did you make this website?
 
-I made this website using HTML, CSS, and JavaScript for the most part, with Gatsby being used for hosting my blog. The font pairing I have used is Jost and Open Sans. The specific shade of red I use on the website is #B1040E.
+I made this website using HTML, CSS & JavaScript with [Gatsby](https://www.gatsbyjs.com/) used for my blog. The font used is Proxima Nova, with specific shade of Red (#B1040E).
