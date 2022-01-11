@@ -4,11 +4,11 @@ date: "2022-01-11T22:12:03.284Z"
 description: "Some Frequently Asked Questions!"
 ---
 
-Hi there!
+Hola!
 
-As a rule of thumb, I’m usually very happy to receive emails from people who visit my website, and I’d love to hear from you if you wish to work with me or collaborate with any of the organizations that I am currently a member of. I’m also happy to hear from you about any feedback or comments you may have about my writing and also (especially!) if you have discovered any errata or dead links somewhere on my website, which I would be happy to try to fix as soon as possible.
+I'm usually delighted to receive emails from people who visit my LinkedIn or website &  I'd love to hear from you if you wish to collaborate with me or any of the organizations that I am presently a part of. I'm also delighted to hear from you about any feedback or comments on my writing and (predominantly!) if you have uncovered any dead links somewhere on my website, which I would be glad to fix as soon as possible.
 
-However, of recent, I have been receiving a lot of emails and messages that overlap a lot in terms of content, and it isn’t really possible for me to reply to everyone with the same answers within a reasonable span of time. So before messaging or emailing me with any queries, I would appreciate it if you could read through this FAQ, especially if your questions are rather personal in nature.
+However, recently, I have been receiving emails and messages that coincide, and I can't reply to everyone with the same answers within a suitable time. So before reaching out to me with any queries, I would appreciate it if you could read through this FAQ!
 
 # College-related
 
