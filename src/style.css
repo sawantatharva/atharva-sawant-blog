@@ -78,7 +78,7 @@ html {
 }
 
 body {
-  font-family: var(--font-body);
+  font-family: "Proxima Nova R";
   font-size: var(--fontSize-1);
   color: var(--color-text);
 }
