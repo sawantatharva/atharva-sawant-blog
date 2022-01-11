@@ -55,10 +55,10 @@
   --fontSize-6: 2.488rem;
   --fontSize-7: 2.986rem;
   --color-primary: #B1040E;
-  --color-text: #ffffff;
+  --color-text: #000000;
   --color-text-light: #8C1515;
   --color-heading: #1a202c;
-  --color-heading-black: #ffffff;
+  --color-heading-black: #000000;
   --color-accent: #d2b9ba;
 }
 
