@@ -274,6 +274,7 @@ a:focus {
   padding-bottom: var(--spacing-6);
   margin-top: var(--spacing-6);
   border-bottom: 1px solid #d1dce5;
+  padding-top: var(--spacing-6);
   border-top: 1px solid #d1dce5;
 }
 
