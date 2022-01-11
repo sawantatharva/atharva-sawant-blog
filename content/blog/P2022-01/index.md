@@ -12,30 +12,20 @@ However, recently, I have been receiving emails and messages that coincide, and 
 
 # College-related
 
-### How did you get into MIT?
+### How did you get into Plaksha?
 
-In all honesty, I don’t know.
+Honestly, I don’t know.
 
-Even as an admitted student, I do not have any more access to information on how admissions work than somebody outside of MIT. I was admitted the same way as the rest of my class, after completing my application, the requirements for which are listed on the [MIT Admissions](https://mitadmissions.org/) website. These requirements may well be very different now than from when I applied. Please refer there for information on how to submit an application.
+Even as an admitted student, I do not have access to information on how admissions work. I was admitted the same way as the rest of my class for that I completed my application and the requirements on the [Plaksha Admissions] (https://plaksha.edu.in/admissions) website.
 
-As for how to submit a successful application, I have no more knowledge of what works than anyone else, and I do not know what made my application successful. As I was not present when the admissions committee was reviewing my application, I have no way of knowing this information, and I feel it would be unwise of me to answer questions about something I don’t know.
+As for how to submit a successful application, I do not know what made my application successful. As for what was on my application, well, everything I am comfortable sharing about myself is on my website. Also, the application process at Plaksha is unique to the person applying, so my responses wouldn't help anyone.
 
-As for what was on my application, well, everything I am comfortable with sharing about myself is already listed on my website and my blog. Also, a large part of the application process (at least for me) asked questions that had answers unique to the person applying - I don’t believe knowing my answers to those would help anyone in any way.
+### Can you help me with the college application process?
 
-### What should I do to get admitted to MIT/other institutes?
-
-Once again, I don’t know.
-
-Throughout high school, I participated in events, competitions, and extracurricular activities in fields that interested me. I was successful in some of those endeavors. I was not as successful in others. As I do not know why I got admitted in the first place, I cannot, with full honesty, claim that doing any particular activities will help you get in. Also, admissions criteria change year-to-year, as do applicant pools, and whatever may have worked for me cannot be guaranteed to work for anyone applying in the future.
-
-For other institutes, I will most likely be totally unfamiliar with how they work, as I am an outsider with no special knowledge of admissions there. I highly recommend consulting the specific admissions websites of these institutes or contacting their admissions offices. For MIT, the [MIT Admissions](https://mitadmissions.org/) blogs are a good resource to understand admissions, as well as general life at the institute. A few of the ones I really liked were It’s More Than A Job, Bleary-eyed, Applying Sideways, and There Is No Formula. Perhaps you will find those helpful.
-
-### Can you help me with any other queries I may have about the college application process?
-
-Sadly, I cannot, even though I would love to. As the application process itself is ever-changing, I cannot do any better than redirecting you to the institute/organization’s own websites. Furthermore, the number of such requests that I have received prevent me from helping anyone effectively. I don’t have any more useful or unique information about college applications than what is listed on this page, so even though I wish I could, I cannot help anyone here.
+Sorry, I cannot, even though I would love to. As the application process, itself is unique to the applicant and ever-changing,  I cannot do any better than redirect you to the institution’s websites or provide a few tips (which I have shared below). Hope you understand!
 
 # Website Specifications
 
 ### How did you make this website?
 
-I made this website using HTML, CSS, and JavaScript for the most part, with Gatsby being used for hosting my blog. The font pairing I have used is Jost and Open Sans. The specific shade of blue I use on the website is #298BF5.
+I made this website using HTML, CSS, and JavaScript for the most part, with Gatsby being used for hosting my blog. The font pairing I have used is Jost and Open Sans. The specific shade of red I use on the website is #B1040E.
