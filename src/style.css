@@ -93,6 +93,16 @@ hr {
   border: 0;
 }
 
+@font-face {
+  font-family: "Proxima Nova R";
+  src: url("Proxima_Nova_R.otf");
+}
+
+@font-face {
+  font-family: "Proxima Nova SB";
+  src: url("Proxima_Nova_SB.otf");
+}
+
 /* Heading */
 
 h1,
@@ -101,7 +111,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: var(--font-heading);
+  font-family: "Proxima Nova R";
   margin-top: var(--spacing-12);
   margin-bottom: var(--spacing-6);
   line-height: var(--lineHeight-tight);
@@ -231,6 +241,7 @@ table thead tr th {
 
 a {
   color: var(--color-primary);
+  text-decoration: none;
 }
 
 a:hover,
@@ -281,7 +292,7 @@ a:focus {
 
 .header-link-home {
   font-weight: var(--fontWeight-bold);
-  font-family: var(--font-heading);
+  font-family: "Proxima Nova R";
   text-decoration: none;
   font-size: var(--fontSize-2);
 }
@@ -308,7 +319,7 @@ a:focus {
 
 .blog-post header p {
   font-size: var(--fontSize-2);
-  font-family: var(--font-heading);
+  font-family: "Proxima Nova R";
 }
 
 .blog-post-nav ul {
