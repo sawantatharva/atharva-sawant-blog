@@ -25,7 +25,8 @@ const Layout = ({ location, title, children }) => {
       <header className="global-header">{header}</header>
       <main>{children}</main>
       <footer>
-        © {new Date().getFullYear()} Atharva Sawant,
+        © {new Date().getFullYear()} Atharva Sawant
+        \n
         Made with ♥ using
         {` `}
         <a href="https://www.gatsbyjs.com">Gatsby</a>
