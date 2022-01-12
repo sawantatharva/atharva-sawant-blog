@@ -48,7 +48,7 @@ const Bio = () => {
           {` `}
           <p>
             <a href="http://atharvasawant.com"> Home </a> |
-            <a href="http://atharvasawant.com/blog"> All Posts </a> |
+            <a href="https://atharvasawant.gatsbyjs.io/"> All Posts </a> |
             <a href="http://daydreamed.substack.com"> Subscribe </a>
          </p>
         </p>
