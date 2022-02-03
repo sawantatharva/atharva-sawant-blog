@@ -42,7 +42,7 @@ It was an unpredictable thing since I got the internship via a trial and error m
 
 > A cold email is an unsolicited e-mail that is sent to a receiver without prior contact. 
 
-For me, I just randomly cold emailed, and luckily, got a reply! Once again, this process is unexpected so don't be sad if you don't receive a reply. But it's worth a shot if you're fascinated by something!
+For me, I just randomly cold emailed various Professors of my interest at Massachusetts Institute of Technology (MIT), and luckily, got a reply! Once again, this process is unexpected so don't be sad if you don't receive a reply. But it's worth a shot if you're fascinated by something!
 
 # Website Specifications
 
